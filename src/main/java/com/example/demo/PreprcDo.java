@@ -3,7 +3,7 @@ package com.example.demo;
 import java.time.LocalDate;
 
 public class PreprcDo {
-
+//todo 需要替换为短流水表的属性
     private String uuid;
     private Integer amt;
     private LocalDate tranDate;
